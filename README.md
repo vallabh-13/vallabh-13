@@ -1,5 +1,5 @@
 # 💫 About Me:
-A first-year college student pursuing computer science with 8 months of hands-on experience in frontend development. Currently, mastering skills in 3D web development using GSAP and Three.js, while learning Kubernetes. Web development and Cloud computing is mainly the focused area for actively exploring as well as building a career opportunity.
+A first-year college student pursuing computer science with 10 months of hands-on experience in frontend development. Currently, mastering skills in 3D web development using GSAP and Three.js, while learning AWS. Web development and Cloud computing is mainly the focused area for actively exploring as well as building a career opportunity.
 
 
 ## 🌐 Socials:
