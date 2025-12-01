@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I’m Bhanudas mahadik, a sophomore pursuing a bachelor’s degree in information technology at the University of Cincinnati, specializing in networking and system administration. Alongside my academic journey, I’m deeply focused on cloud computing, with hands-on experience in AWS projects using Terraform. I hold AWS certifications (Solutions Architect – Associate and Cloud Practitioner) and have a strong passion for designing cloud architectures which are scalable, secure, reliable, and cost-optimized. Currently, I’m expanding my expertise into Kubernetes orchestration and AI-driven automation infrastructure.<br>
+Hi, I’m Bhanudas mahadik, a sophomore pursuing a bachelor’s degree in information technology at the University of Cincinnati, specializing in networking and system administration. Alongside my academic journey, I’m deeply focused on cloud computing, with hands-on experience in AWS projects using Terraform. I hold AWS certifications (Solutions Architect – Associate and Cloud Practitioner) and have a strong passion for designing cloud architectures which are scalable, secure, reliable, and cost-optimized. Currently, I am actively seeking a Summer 2026 co-op opportunity to gain hands-on experience in cloud networking or related fields, where I can apply my skills in a collaborative environment and continue building toward my long-term goal of becoming a Solutions Architect.<br>
 
 ## 🌐 Socials:
 
